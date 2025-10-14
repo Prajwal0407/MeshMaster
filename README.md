@@ -1,7 +1,8 @@
 # MeshMaster
 Mesh Master is a powerful Blender addon designed to streamline mesh cleanup, export, and turnaround rendering. It combines intelligent cleanup tools, batch export functionality, and automatic turnaround renders with dynamic lighting, all accessible from the Sidebar.
 
-Features
+**Features**:
+
 🧹 Cleanup Tools
 
 Perform batch cleanup on selected mesh objects to improve mesh quality and consistency.
@@ -55,3 +56,41 @@ Enable Clay Material: Replace object materials with a clay shader for consistent
 Rim Light Color & Power: Customize lighting color and intensity for renders.
 
 Render Turnaround Button: Automatically render multiple angles and clean up temporary lights/camera after rendering.
+
+
+**Usage**:
+Cleanup Meshes
+
+Select one or more mesh objects.
+
+Toggle desired cleanup options (e.g., Merge By Distance, Triangulate Faces).
+
+Click Run Cleanup to apply.
+
+Optionally, click Apply Transforms or Select N-gons for additional mesh preparation.
+
+Export Meshes
+
+Set the Export Directory.
+
+(Optional) Add a Custom Filename.
+
+Toggle Apply Modifiers and Selected Objects Only as needed.
+
+Click Export FBX to save your mesh files.
+
+Turnaround Rendering
+
+Select the active object to render.
+
+Set the Output Directory, Resolution, Number of Angles, and other render options.
+
+Click Render Turnaround. The addon will automatically:
+
+Position a temporary camera around the object.
+
+Add temporary lights with specified colors and power.
+
+Render all angles.
+
+Delete temporary lights and camera after rendering.
