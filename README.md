@@ -3,7 +3,7 @@ Mesh Master is a powerful Blender addon designed to streamline mesh cleanup, exp
 
 **Features**:
 
-🧹 Cleanup Tools
+🧹 **Cleanup Tools**
 
 Perform batch cleanup on selected mesh objects to improve mesh quality and consistency.
 
@@ -23,7 +23,7 @@ Apply Transforms: Apply location, rotation, and scale transformations.
 
 Select N-gons: Select all faces with more than 4 vertices.
 
-📤 Export Tools
+📤**Export Tools**
 
 Easily export meshes to FBX with options for modifiers, selection, and custom filenames.
 
@@ -37,7 +37,7 @@ Selected Objects Only: Export only selected objects or all objects in the scene.
 
 Export FBX Button: Quickly export with the selected settings.
 
-🎥 Turnaround Render
+🎥 **Turnaround Render**
 
 Automatically generate multiple renders of your object rotating around its center with smart lighting.
 
@@ -59,6 +59,8 @@ Render Turnaround Button: Automatically render multiple angles and clean up temp
 
 
 **Usage**:
+
+
 Cleanup Meshes
 
 Select one or more mesh objects.
