@@ -1,7 +1,7 @@
 # MeshMaster
 Mesh Master is a powerful Blender addon designed to streamline mesh cleanup, export, and turnaround rendering. It combines intelligent cleanup tools, batch export functionality, and automatic turnaround renders with dynamic lighting, all accessible from the Sidebar.
 
-<img width="245" height="987" alt="Screenshot 2025-10-15 065259" src="https://github.com/user-attachments/assets/2bb7d71b-94da-4ee4-abde-832de6b5d202" />
+<img width="237" height="1023" alt="Screenshot 2025-10-18 104714" src="https://github.com/user-attachments/assets/ea138289-05de-432d-b225-b61f031b84ef" />
 
 
 **🧠 Mesh Master — Ultimate Mesh Utility for Blender**
